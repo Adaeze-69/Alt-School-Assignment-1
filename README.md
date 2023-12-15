@@ -1,0 +1,1 @@
+This is my first Altschool Assignment which comprises of a replication of Alt School Africa Application form and my biography Which was mainly built with HTML only.
