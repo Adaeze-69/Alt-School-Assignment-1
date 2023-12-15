@@ -1,1 +1,1 @@
-This is my first Altschool Assignment which comprises of a replication of Alt School Africa Application form (https://portal.altschoolafrica.com/auth/create-account)[Application form] and my biography Which was mainly built with HTML only.
+This is my first Altschool Assignment which comprises of a replication of Alt School Africa Application form (Application Form)[https://portal.altschoolafrica.com/auth/create-account)https://portal.altschoolafrica.com/auth/create-account] and my biography Which was mainly built with HTML only.
